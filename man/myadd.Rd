@@ -18,7 +18,6 @@ myadd(x = 1, y = 2)
 加法
 }
 \examples{
-a=myadd()
 b=myadd(3,4)
 c=myadd(x=5,y=6)
 d=myadd(y=2,x=3)

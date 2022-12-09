@@ -1,7 +1,7 @@
 Package: myaddPkg1
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.3.0
+Version: 0.4.0
 Author: sqrln
 Maintainer: sqrln <3574327970@qq.com>
 Description: More about what it does (maybe more than one line)
